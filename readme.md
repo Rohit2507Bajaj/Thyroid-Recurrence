@@ -118,10 +118,4 @@ Install them using:
 pip install pandas numpy scikit-learn imbalanced-learn xgboost lightgbm openpyxl matplotlib seaborn
 ```
 
-## How to Run
-
-1. Open and run `thyroid code.ipynb` to generate the dataset versions.
-2. Check the generated files inside the `Dataset/` folder.
-3. Open and run `Ensemble.ipynb` to train the models and generate result tables.
-4. Review the scenario-wise outputs for original and automata-enhanced datasets.
 
